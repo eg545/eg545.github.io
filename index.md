@@ -3,9 +3,8 @@ title: 'Summary'
 layout: page
 ---
 
-![image](https://user-images.githubusercontent.com/130064024/230410271-c7a1dcac-3d5b-4cee-8d91-8f86f3b8d74c.png | width=100, height=100)
 
-<img src="https://user-images.githubusercontent.com/130064024/230410271-c7a1dcac-3d5b-4cee-8d91-8f86f3b8d74c.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/130064024/230410271-c7a1dcac-3d5b-4cee-8d91-8f86f3b8d74c.png" width="200" height="200">
 
 ## About my personal website
 
