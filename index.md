@@ -8,7 +8,7 @@ layout: page
 
 ## About my personal website
 
-- My name is Elian Gomez, as of 2023 I am a student at Cornell University majoring in Financial Engineering, based in NY.
+- My name is Elian Gomez, as of 2023 I am a student at Cornell University majoring in [Financial Engineering](https://www.orie.cornell.edu/orie/cfem), based in NY.
 
 - This is my personal website which includes some general information about me and my past experience and projects.
 
